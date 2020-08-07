@@ -11,6 +11,7 @@ description: >
   <a href="https://www.facebook.com/daniel.dominguete" target="_blank"><img border="0" alt="Facebook" src="/images/facebook.png" width="32" height="32"></a>
   <a href="mailto:daniel.dominguete@gmail.com" target="_blank"><img border="0" alt="Gmail" src="/images/gmail.png" width="32" height="32"></a>
   <a href="https://medium.com/@daniel.dominguete" target="_blank"><img border="0" alt="Medium" src="/images/medium.png" width="32" height="32"></a>
+  <a href="https://github.com/danieldominguete" target="_blank"><img border="0" alt="Github" src="/images/git.png" width="32" height="32"></a>
   <a href="https://www.youtube.com/user/dominguete/" target="_blank"><img border="0" alt="Youtube" src="/images/youtube.png" width="32" height="32"></a>
   </p>
 theme: jekyll-theme-minimal
