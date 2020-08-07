@@ -1,15 +1,6 @@
 # Professional Profile
 
 ---
-## Core Competences 
-
-- Machine Learning
-- Data Science
-- Web Development
-- Business Development
-- Marketing & Sales
-
----
 ## Projects 
 
 ### [Cognas](https://cognas.ai/)
