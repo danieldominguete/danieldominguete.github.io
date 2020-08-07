@@ -9,6 +9,7 @@
 - Business Development
 - Marketing & Sales
 
+---
 ## Projects 
 
 ### [Cognas](https://cognas.ai/)
@@ -26,7 +27,6 @@ Knowledge Hub of Business, Marketing and Technology. Digital Mentoring for small
 Open source framework with best Machine Learning Practices and Tools for several applications.
 
 ---
-
 ## Publications
 
 ### Dissertation
@@ -60,9 +60,9 @@ Open source framework with best Machine Learning Practices and Tools for several
 
 ### Presentations 
 
-1. Redes Neurais Recorrentes Meetup. Machine Learning Experience - NLP Edition - 2020. ([link](https://youtu.be/7hySZ74_EKs))
----
+1. Redes Neurais Recorrentes Meetup. Machine Learning Experience - NLP Edition. 2020. ([link](https://youtu.be/7hySZ74_EKs))
 
+---
 ## Experience
 
 - R&D Head - Machine Learning for Digital Retailing Solutions ([Omnilogic](https://omnilogic.ai/))
