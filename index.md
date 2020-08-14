@@ -13,9 +13,20 @@ Knowledge Hub of Data Science and Machine Learning. Provides digital mentoring f
 Knowledge Hub of Business, Marketing and Technology. Digital Mentoring for small and medium companies interested in Digital Transformation Acceleration.
 
 
+### [Consulta Isenção](https://consultaisencao.com.br/)
+
+Car purchase incentives for disable people website. Includes chatbot and web app for leads management.  
+
+
 ### [XploreML](https://github.com/danieldominguete/XploreML)
 
 Open source framework with best Machine Learning Practices and Tools for several applications.
+
+
+### [API Rest - NodeTS Boilerplate ](https://github.com/danieldominguete/API-NodeTS-Boilerplate)
+
+Production ready API Rest template for Typescript. Using Node, Express and TypeORM.  
+
 
 ---
 ## Publications
@@ -32,7 +43,7 @@ Open source framework with best Machine Learning Practices and Tools for several
 
 ### Technical Articles
 
-1. Operational Model and Computational Intelligence: A New Approach to Mineral Processing Optimizatio. 33rd International Symposium on Application of Computers and Operations Research in the Mineral Industry. 2007. ([link](/pdf/Modelo_Operacional_and_Computational_Intelligence.pdf))
+1. Operational Model and Computational Intelligence: A New Approach to Mineral Processing Optimization. 33rd International Symposium on Application of Computers and Operations Research in the Mineral Industry. 2007. ([link](/pdf/Modelo_Operacional_and_Computational_Intelligence.pdf))
 1. Intelligent System for Prediction of Electrode Lenght in an Electric Arc Furnace. XVI Automatic Brazilian Congress - CBA. 2006. ([link](/pdf/ArtigoCBA06_Eletrodos.pdf))
 1. Forecasting the thermal loss for steel transference from the secondary refining to the continuous casting. XXXVII Seminário de Aciaria - ABM. 2006. ([link](/pdf/ArtigoABM06_RefinoSecundario.pdf))
 1. Modeling and Optimization of Flotation Process using Artificial Intelligence Tools. X Seminário de Automação de Processos - ABM. 2006. ([link](/pdf/ArtigoABM06_Flotacao.pdf))
