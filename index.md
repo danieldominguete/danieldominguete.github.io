@@ -15,7 +15,7 @@ Knowledge Hub of Business, Marketing and Technology. Digital Mentoring for small
 
 ### [Consulta Isenção](https://consultaisencao.com.br/)
 
-Car purchase incentives for disable people website. Includes chatbot and web app for leads management.  
+Website of car purchase incentives for disable person. Includes chatbot and web app for leads management.  
 
 
 ### [XploreML](https://github.com/danieldominguete/XploreML)
@@ -27,6 +27,9 @@ Open source framework with best Machine Learning Practices and Tools for several
 
 Production ready API Rest template for Typescript. Using Node, Express and TypeORM.  
 
+### [API Rest - FastPy Boilerplate ](https://github.com/danieldominguete/API-FastPy-Boilerplate)
+
+Production ready API Rest template for Python. Using FastAPI, Mangum and Pynamodb.  
 
 ---
 ## Publications
