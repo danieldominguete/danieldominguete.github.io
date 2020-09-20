@@ -1,7 +1,7 @@
 # Professional Profile
 
 ---
-## Projects 
+## Business Projects 
 
 ### [Cognas](https://cognas.ai/)
 
@@ -17,11 +17,12 @@ Knowledge Hub of Business, Marketing and Technology. Digital Mentoring for small
 
 Website of car purchase incentives for disable person. Includes chatbot and web app for leads management.  
 
+---
+## Dev Projects 
 
 ### [XploreML](https://github.com/danieldominguete/XploreML)
 
 Open source framework with best Machine Learning Practices and Tools for several applications.
-
 
 ### [API Rest - NodeTS Boilerplate ](https://github.com/danieldominguete/API-NodeTS-Boilerplate)
 
