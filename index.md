@@ -14,9 +14,9 @@
 ---
 ## Education
 
-- Master's Degree - Machine Learning - Universidade Federal de Minas Gerais. 2004.
+- Master of Science in Machine Learning - Universidade Federal de Minas Gerais. 2004.
+- Master in Business Administration - Fundação Getúlio Vargas. 2007.
 - Industrial Engineering Specialist - PUC Minas. 2014.
-- MBA - Fundação Getúlio Vargas. 2007.
 - Bachelor of Electrical Engineering - Universidade Federal de Minas Gerais. 2003.    
 
 ---
@@ -50,7 +50,7 @@
 ### Presentations 
 
 1. Redes Neurais Recorrentes Meetup. Machine Learning Experience - NLP Edition. 2020. ([link](https://youtu.be/7hySZ74_EKs))
-
+1. Inteligência Artificial na Indústria: desafios e oportunidades. Instituto Federal Norte de Minas Gerais. 2020. ([link](https://drive.google.com/file/d/1x_ObcsGeHOxAreQNWDSU5MRegR559oeJ/view?usp=sharing))
 
 ---
 ## Business Projects 
