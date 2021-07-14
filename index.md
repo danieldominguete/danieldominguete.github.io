@@ -100,4 +100,4 @@ Click [here](/pages/recommendation.md) for my content recommendations for newbie
 
 # Data Analytics Landscape
 
-Click [here](pages/analytics_landscape.md) for my data analytics techniques and tools mapping.
+Click [here](pages/analytics_landscape.md) to explore my data analytics techniques mapping.
