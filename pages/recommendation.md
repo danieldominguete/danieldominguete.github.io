@@ -7,7 +7,12 @@
  
 ## Courses 
 
-- Python : Fundamentos para Análise de Dados 3.0 ([link](https://www.datascienceacademy.com.br/course/python-fundamentos))
+- Python : Fundamentos para Análise de Dados 3.0. 2021 ([link](https://www.datascienceacademy.com.br/course/python-fundamentos))
+
 ## Movies
 
+- The Social Dilemma.2020. ([link](https://www.imdb.com/title/tt11464826/?ref_=ext_shr_lnk))
+
 ## Media
+
+- Simon Sinek: How great leaders inspire action. 2010. ([link](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action))
