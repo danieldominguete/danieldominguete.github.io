@@ -93,4 +93,4 @@ Production ready API Rest template for Python. Using FastAPI, Mangum and Pynamod
 
 # Personal Bookmarks
 
-Click here for technical recommendation for newbies and experts data professionals 
+Click [here](/pages/page.md) for technical recommendation for newbies and experts data professionals 
