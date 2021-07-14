@@ -1,7 +1,7 @@
 # Professional Profile
 
 ---
-## Experience
+### Experience
 
 - Senior Data Analytics Specialist - Data Intelligence for Automotive Industry ([Stellantis](https://www.stellantis.com/en))
 - R&D Head - Machine Learning for Digital Retailing Solutions ([Omnilogic](https://omnilogic.ai/))
@@ -13,7 +13,7 @@
 - Project Manager - Industrial Optimization Projects ([Ottimah Process Improvements](http://www.ottimah.com/site_portugues/index.asp)) 
   
 ---
-## Education
+### Education
 
 - Master of Science in Machine Learning - Universidade Federal de Minas Gerais. 2004.
 - Master in Business Administration - Fundação Getúlio Vargas. 2007.
@@ -21,13 +21,13 @@
 - Bachelor of Electrical Engineering - Universidade Federal de Minas Gerais. 2003.    
 
 ---
-## Publications
+### Publications
 
-### Dissertation
+#### Dissertation
 
 1. Multi-objective training for Radial Basis Function Neural Networks. 2004. ([link](/pdf/MasterThesis_DanielDominguete.PDF)) 
 
-### Papers
+#### Papers
 
 1. Generalization Adjusting in RBF Networks: a multi-objective approach for parameters estimation. VII Brazilian Neural Networks Symposium - SBRN 2004. ([link](/pdf/ArtigoSBRN04_RBF.pdf))
 1. An efficient algorithm for radiowave coverage prediction in urban microcells. IEEE International Telecomunications Symposium - ITS 2002. ([link](/pdf/ArtigoRadiowave2002.pdf))
@@ -39,7 +39,7 @@
 1. Optimizing the Steel Dephosphorization Process in the LD Converter from V&M do Brasil. XXXVI Seminário de Fusão, Refino e Solidificação dos Metais - ABM. 2005. ([link](/pdf/ArtigoABM05_Desfosforacao.pdf)) 
 1. Fails Detect System in Continuous Casting using Artificial Neural Networks. VII Seminário de Automação de Processos - ABM. 2004. ([link](/pdf/ArtigoABM04_MLC.pdf))
  
-### Blog Posts
+#### Blog Posts
 
 1. [Construindo espaços semânticos para aplicações de Processamento de Linguagem Natural](https://medium.com/power-through-connections/construindo-espa%C3%A7os-sem%C3%A2nticos-para-aplica%C3%A7%C3%B5es-de-processamento-de-linguagem-natural-9dbc3dd06dd7)
 1. [Soluções Analíticas, Cognitivas e a Revolução Aumentada](https://medium.com/cognas/solu%C3%A7%C3%B5es-anal%C3%ADticas-cognitivas-e-a-revolu%C3%A7%C3%A3o-aumentada-a922fd5fc568)
@@ -48,36 +48,36 @@
 1. [Importância dos aspectos emocionais em vendas](https://medium.com/cognas/a-import%C3%A2ncia-dos-aspectos-emocionais-em-vendas-ed90807f7ac5)
 1. [Razão e Intuição: Analytics no Processo Decisório](https://medium.com/cognas/raz%C3%A3o-e-intui%C3%A7%C3%A3o-analytics-no-processo-decis%C3%B3rio-1bbf09c09f37)
 
-### Events 
+#### Presentation & Events 
 
 1. Redes Neurais Recorrentes Meetup. Machine Learning Experience - NLP Edition. 2020. ([link](https://youtu.be/7hySZ74_EKs))
 1. Inteligência Artificial na Indústria: desafios e oportunidades. Instituto Federal Norte de Minas Gerais. 2020. ([link](https://drive.google.com/file/d/1x_ObcsGeHOxAreQNWDSU5MRegR559oeJ/view?usp=sharing))
 
 ---
-## Business Projects 
+### Business Projects 
 
-### [Cognas](https://cognas.ai/)
+#### [Cognas](https://cognas.ai/)
 
-Blog about Cognitive and Analytical Solutions. 
+Blog website dedicated to Cognitive and Analytical Solutions. 
 
 ---
-## Dev Projects 
+### Dev Projects 
 
-### [XploreML](https://github.com/danieldominguete/XploreML)
+#### [XploreML](https://github.com/danieldominguete/XploreML)
 
 Open source framework with best Machine Learning Practices and Tools for several applications.
 
-### [API Rest - NodeTS Boilerplate ](https://github.com/danieldominguete/API-NodeTS-Boilerplate)
+#### [API Rest - NodeTS Boilerplate ](https://github.com/danieldominguete/API-NodeTS-Boilerplate)
 
 Production ready API Rest template for Typescript. Using Node, Express and TypeORM.  
 
-### [API Rest - FastPy Boilerplate ](https://github.com/danieldominguete/API-FastPy-Boilerplate)
+#### [API Rest - FastPy Boilerplate ](https://github.com/danieldominguete/API-FastPy-Boilerplate)
 
 Production ready API Rest template for Python. Using FastAPI, Mangum and Pynamodb.  
 
 ---
 
-## Memberships
+### Memberships
 
 - Stellantis Data Analytics Community (moderator)
 - Machine Learning Experience Meetup ([link](https://www.meetup.com/pt-BR/meetup-machine-Learning-experience/))
@@ -85,7 +85,7 @@ Production ready API Rest template for Python. Using FastAPI, Mangum and Pynamod
 
 ---
 
-## Languages
+### Languages
 
 - English
 - Portuguese (native) 
@@ -94,4 +94,10 @@ Production ready API Rest template for Python. Using FastAPI, Mangum and Pynamod
 
 # Recommendations
 
-Click [here](/pages/recommendation.md) for content recommendations for newbies and experts data professionals 
+Click [here](/pages/recommendation.md) for my content recommendations for newbies and experts data professionals 
+
+---
+
+# Data Analytics Landscape
+
+Click [here](pages/analytics_landscape.md) for my data analytics techniques and tools mapping.

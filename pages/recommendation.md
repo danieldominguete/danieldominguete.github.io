@@ -8,14 +8,14 @@
 ## Courses 
 
 - Natural Language Processing. 2020. ([link](https://www.coursera.org/specializations/natural-language-processing))
-- Python : Fundamentos para Análise de Dados 3.0. 2021 ([link](https://www.datascienceacademy.com.br/course/python-fundamentos))
+- Python: Fundamentos para Análise de Dados 3.0. 2021 ([link](https://www.datascienceacademy.com.br/course/python-fundamentos))
 - Web Moderno Completo com Javascript. 2021 ([link](https://www.udemy.com/share/1013eS2@PW5KaV5SQlUJdU57OEhnVBQ=/))
 
 ## Movies
 
-- The Social Dilemma.2020. ([link](https://www.imdb.com/title/tt11464826/?ref_=ext_shr_lnk))
+- The Social Dilemma. 2020. ([link](https://www.imdb.com/title/tt11464826/?ref_=ext_shr_lnk))
 - The Great Hack. 2019. ([link](https://www.imdb.com/title/tt4736550/?ref_=tt_sims_tt_t_1))
-- Inside Bill´s Brain: Decoding Bill Gates ([link](https://www.imdb.com/title/tt10837476/?ref_=tt_sims_tt_i_4))
+- Inside Bill's Brain: Decoding Bill Gates. 2019. ([link](https://www.imdb.com/title/tt10837476/?ref_=tt_sims_tt_i_4))
 
 ## Media
 
