@@ -3,6 +3,7 @@
 ---
 ## Experience
 
+- Senior Data Analytics Specialist - Data Intelligence for Automotive Industry ([Stellantis](https://www.stellantis.com/en))
 - R&D Head - Machine Learning for Digital Retailing Solutions ([Omnilogic](https://omnilogic.ai/))
 - IT Manager - Innovation & Digitalization Projects ([Parex Engenharia](https://www.parex.com.br/))
 - Mkt & Sales Manager - Rebranding & Sales Pipeline Projects ([Parex Engenharia](https://www.parex.com.br/))
@@ -40,12 +41,12 @@
  
 ### Blog Posts
 
-1. [A evolução digital e o projeto Cognas](https://medium.com/cognas/a-evolu%C3%A7%C3%A3o-digital-e-o-projeto-cognas-b8f4efb49667)
-1. [Soluções Analíticas, Cognitivas e a Revolução Aumentada](https://medium.com/cognas/solu%C3%A7%C3%B5es-anal%C3%ADticas-cognitivas-e-a-revolu%C3%A7%C3%A3o-aumentada-ab3a43d84ab)
-1. [Hacks de Produtividade Pessoal](https://medium.com/ringabell-business/hacks-de-produtividade-pessoal-ringabell-19dba86bad7b)
 1. [Construindo espaços semânticos para aplicações de Processamento de Linguagem Natural](https://medium.com/power-through-connections/construindo-espa%C3%A7os-sem%C3%A2nticos-para-aplica%C3%A7%C3%B5es-de-processamento-de-linguagem-natural-9dbc3dd06dd7)
-1. [Qual a diferença entre Inteligência Artificial, Machine Learning e Deep Learning](https://medium.com/ringabell-business/qual-a-diferen%C3%A7a-entre-intelig%C3%AAncia-artificial-machine-learning-e-deep-learning-ringabell-29796023d860)
-1. [Os aspectos emocionais em um processo de compra](https://medium.com/ringabell-business/os-aspectos-emocionais-em-um-processo-de-compra-ringabell-24b1496e31c3)
+1. [Soluções Analíticas, Cognitivas e a Revolução Aumentada](https://medium.com/cognas/solu%C3%A7%C3%B5es-anal%C3%ADticas-cognitivas-e-a-revolu%C3%A7%C3%A3o-aumentada-a922fd5fc568)
+1. [Hacks de Produtividade Pessoal](https://medium.com/cognas/hacks-de-produtividade-pessoal-8661ab80baca)
+1. [Inteligência Artificial, Machine Learning ou Deep Learning?](https://medium.com/cognas/intelig%C3%AAncia-artificial-machine-learning-ou-deep-learning-dd8f0e4de649)
+1. [Importância dos aspectos emocionais em vendas](https://medium.com/cognas/a-import%C3%A2ncia-dos-aspectos-emocionais-em-vendas-ed90807f7ac5)
+1. [Razão e Intuição: Analytics no Processo Decisório](https://medium.com/cognas/raz%C3%A3o-e-intui%C3%A7%C3%A3o-analytics-no-processo-decis%C3%B3rio-1bbf09c09f37)
 
 ### Presentations 
 
@@ -57,17 +58,7 @@
 
 ### [Cognas](https://cognas.ai/)
 
-Knowledge Hub of Data Science and Machine Learning. Provides digital mentoring for small and medium companies interested in Data-Driven Solutions.
-
-
-### [Ringabell](https://ringabell.com.br/)
-
-Knowledge Hub of Business, Marketing and Technology. Digital Mentoring for small and medium companies interested in Digital Transformation Acceleration.
-
-
-### [Consulta Isenção](https://consultaisencao.com.br/)
-
-Website of car purchase incentives for disable person. Includes chatbot and web app for leads management.  
+Blog about Cognitive and Analytical Solutions. 
 
 ---
 ## Dev Projects 
@@ -98,3 +89,8 @@ Production ready API Rest template for Python. Using FastAPI, Mangum and Pynamod
 - English
 - Portuguese (native) 
 
+---
+
+# Personal Bookmarks
+
+Click here for technical recommendation for newbies and experts data professionals 
