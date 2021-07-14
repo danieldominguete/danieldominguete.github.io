@@ -48,7 +48,7 @@
 1. [Importância dos aspectos emocionais em vendas](https://medium.com/cognas/a-import%C3%A2ncia-dos-aspectos-emocionais-em-vendas-ed90807f7ac5)
 1. [Razão e Intuição: Analytics no Processo Decisório](https://medium.com/cognas/raz%C3%A3o-e-intui%C3%A7%C3%A3o-analytics-no-processo-decis%C3%B3rio-1bbf09c09f37)
 
-### Presentations 
+### Events 
 
 1. Redes Neurais Recorrentes Meetup. Machine Learning Experience - NLP Edition. 2020. ([link](https://youtu.be/7hySZ74_EKs))
 1. Inteligência Artificial na Indústria: desafios e oportunidades. Instituto Federal Norte de Minas Gerais. 2020. ([link](https://drive.google.com/file/d/1x_ObcsGeHOxAreQNWDSU5MRegR559oeJ/view?usp=sharing))
@@ -79,6 +79,7 @@ Production ready API Rest template for Python. Using FastAPI, Mangum and Pynamod
 
 ## Memberships
 
+- Stellantis Data Analytics Community (moderator)
 - Machine Learning Experience Meetup ([link](https://www.meetup.com/pt-BR/meetup-machine-Learning-experience/))
 - Computational Intelligence Laboratory - UFMG ([link](http://litc.cpdee.ufmg.br/))
 
@@ -91,6 +92,6 @@ Production ready API Rest template for Python. Using FastAPI, Mangum and Pynamod
 
 ---
 
-# Personal Bookmarks
+# Recommendations
 
-Click [here](/pages/page.md) for technical recommendation for newbies and experts data professionals 
+Click [here](/pages/recommendation.md) for content recommendations for newbies and experts data professionals 
