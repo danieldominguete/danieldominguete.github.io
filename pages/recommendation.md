@@ -7,6 +7,7 @@
  
 ## Courses 
 
+- Python : Fundamentos para Análise de Dados 3.0 ([link](https://www.datascienceacademy.com.br/course/python-fundamentos))
 ## Movies
 
 ## Media
