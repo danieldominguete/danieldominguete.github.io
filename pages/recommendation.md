@@ -16,7 +16,6 @@
 ### Science, Data and Technology
 
 - We Need to Talk About A.I. 2020. ([link](https://www.imdb.com/title/tt7658158/))
-- The Great Hack. 2019. ([link](https://www.imdb.com/title/tt4736550/))
 - The Social Dilemma. 2020. ([link](https://www.imdb.com/title/tt11464826/))
 - The Great Hack. 2019. ([link](https://www.imdb.com/title/tt4736550/))
 - Inside Bill's Brain: Decoding Bill Gates. 2019. ([link](https://www.imdb.com/title/tt10837476/))
