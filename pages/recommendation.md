@@ -13,9 +13,38 @@
 
 ## Movies
 
-- The Social Dilemma. 2020. ([link](https://www.imdb.com/title/tt11464826/?ref_=ext_shr_lnk))
-- The Great Hack. 2019. ([link](https://www.imdb.com/title/tt4736550/?ref_=tt_sims_tt_t_1))
-- Inside Bill's Brain: Decoding Bill Gates. 2019. ([link](https://www.imdb.com/title/tt10837476/?ref_=tt_sims_tt_i_4))
+### Science, Data and Technology
+
+- We Need to Talk About A.I. 2020. ([link](https://www.imdb.com/title/tt7658158/))
+- The Great Hack. 2019. ([link](https://www.imdb.com/title/tt4736550/))
+- The Social Dilemma. 2020. ([link](https://www.imdb.com/title/tt11464826/))
+- The Great Hack. 2019. ([link](https://www.imdb.com/title/tt4736550/))
+- Inside Bill's Brain: Decoding Bill Gates. 2019. ([link](https://www.imdb.com/title/tt10837476/))
+- AlphaGo. 2017 ([link](https://www.imdb.com/title/tt6700846/))
+- Westworld. 2016 ([link](https://www.imdb.com/title/tt0475784/))
+- Steve Jobs. 2015 ([link](https://www.imdb.com/title/tt2080374/))
+- Silicon Valley. 2014 ([link](https://www.imdb.com/title/tt2575988/))
+- The Theory of Everything. 2014 ([link](https://www.imdb.com/title/tt2980516/))
+- Ex Machina. 2014 ([link](https://www.imdb.com/title/tt0470752/))
+- The Imitation Game. 2014 ([link](https://www.imdb.com/title/tt2084970/))
+- Her. 2013 ([link](https://www.imdb.com/title/tt1798709/))
+- Jobs. 2013 ([link](https://www.imdb.com/title/tt2357129/))
+- Black Mirror. 2011 ([link](https://www.imdb.com/title/tt2085059/))
+- Moneyball. 2011. ([link](https://www.imdb.com/title/tt1210166/))
+- The Social Network. 2010 ([link](https://www.imdb.com/title/tt1285016/))
+- A Beautiful Mind. 2001 ([link](https://www.imdb.com/title/tt0268978/))
+- A.I. Artificial Intelligence. 2001 ([link](https://www.imdb.com/title/tt0212720/))
+- Good Will Hunting. 1997 ([link](https://www.imdb.com/title/tt1285016/))
+- Matrix. 1999 ([link](https://www.imdb.com/title/tt0133093/))
+- 2001: A Space Odyssey. 1968 ([link](https://www.imdb.com/title/tt0062622/))
+
+### Business
+
+- The Inventor: Out for Blood in Silicon Valley. 2019. ([link](https://www.imdb.com/title/tt8488126/))
+- The founder. 2016. ([link](https://www.imdb.com/title/tt4276820/))
+- Snowden. 2016. ([link](https://www.imdb.com/title/tt3774114/))
+- The Wolf of Wall Street. 2013. ([link](https://www.imdb.com/title/tt0993846/))
+
 
 ## Media
 
