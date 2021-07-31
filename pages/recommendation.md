@@ -15,6 +15,9 @@
 
 ### Science, Data and Technology
 
+- High Score. 2020. ([link](https://www.imdb.com/title/tt12759400/))
+- Connected: The Hidden Science of Everything. 2020. ([link](https://www.imdb.com/title/tt12753692/))
+- Coded Bias. 2020. ([link](https://www.imdb.com/title/tt11394170/))
 - We Need to Talk About A.I. 2020. ([link](https://www.imdb.com/title/tt7658158/))
 - The Social Dilemma. 2020. ([link](https://www.imdb.com/title/tt11464826/))
 - The Great Hack. 2019. ([link](https://www.imdb.com/title/tt4736550/))
