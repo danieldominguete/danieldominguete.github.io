@@ -1,4 +1,4 @@
 # Professional Profile Github Page
 
-Daniel Dominguete, M.Sc. 
+Professional website of Daniel Dominguete, M.Sc. 
 

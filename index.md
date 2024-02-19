@@ -3,6 +3,7 @@
 ---
 ### Experience
 
+- Senior Data Science Manager - Credit Risk Modeling for Digital Bank ([Inter](https://inter.co/))
 - Senior Data Analytics Specialist - Data Intelligence for Automotive Industry ([Stellantis](https://www.stellantis.com/en))
 - R&D Head - Machine Learning for Digital Retailing Solutions ([Omnilogic](https://omnilogic.ai/))
 - IT Manager - Innovation & Digitalization Projects ([Parex Engenharia](https://www.parex.com.br/))
@@ -54,18 +55,7 @@
 1. Inteligência Artificial na Indústria: desafios e oportunidades. Instituto Federal Norte de Minas Gerais. 2020. ([link](https://drive.google.com/file/d/1x_ObcsGeHOxAreQNWDSU5MRegR559oeJ/view?usp=sharing))
 
 ---
-### Business Projects 
-
-#### [Cognas](https://cognas.ai/)
-
-Blog website dedicated to Cognitive and Analytical Solutions. 
-
----
 ### Dev Projects 
-
-#### [XploreML](https://github.com/danieldominguete/XploreML)
-
-Open source framework with best Machine Learning Practices and Tools for several applications.
 
 #### [API Rest - NodeTS Boilerplate ](https://github.com/danieldominguete/API-NodeTS-Boilerplate)
 
@@ -92,12 +82,8 @@ Production ready API Rest template for Python. Using FastAPI, Mangum and Pynamod
 
 ---
 
-# Recommendations
+# Curated Recommendations
 
-Click [here](/pages/recommendation.md) for my content recommendations for newbies and experts data professionals 
+Click [here](/pages/technical_references.md) for my curated technical references for newbies and experts data professionals 
 
----
-
-# Data Analytics Landscape
-
-Click [here](pages/analytics_landscape.md) to explore my data analytics techniques mapping.
+Click [here](/pages/entertainment_suggestions.md) for my suggestions for techbiz-related entertainment content.  

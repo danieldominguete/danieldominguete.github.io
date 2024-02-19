@@ -1,17 +1,16 @@
-# Recommendations
-
-## Books
-
-- Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking. Provost and Fawcett. O'Reilly Media. 2013.([link](https://www.amazon.com.br/dp/B00E6EQ3X4/ref=cm_sw_em_r_mt_dp_KS1MGGV5XM0G87ZKV1WN))
-- Python for Marketing Research and Analytics. Schawarz, Chapman and Feit. Springer. 2020 ([link](https://www.springer.com/gp/book/9783030497194))
- 
-## Courses 
-
-- Natural Language Processing. 2020. ([link](https://www.coursera.org/specializations/natural-language-processing))
-- Python: Fundamentos para Análise de Dados 3.0. 2021 ([link](https://www.datascienceacademy.com.br/course/python-fundamentos))
-- Web Moderno Completo com Javascript. 2021 ([link](https://www.udemy.com/share/1013eS2@PW5KaV5SQlUJdU57OEhnVBQ=/))
+# Entertainment Suggestions
 
 ## Movies
+
+### Business and Entrepreneurship
+
+- The Inventor: Out for Blood in Silicon Valley. 2019. ([link](https://www.imdb.com/title/tt8488126/))
+- The founder. 2016. ([link](https://www.imdb.com/title/tt4276820/))
+- Snowden. 2016. ([link](https://www.imdb.com/title/tt3774114/))
+
+### Finantial Market
+
+- The Wolf of Wall Street. 2013. ([link](https://www.imdb.com/title/tt0993846/))
 
 ### Science, Data and Technology
 
@@ -40,17 +39,15 @@
 - Matrix. 1999 ([link](https://www.imdb.com/title/tt0133093/))
 - 2001: A Space Odyssey. 1968 ([link](https://www.imdb.com/title/tt0062622/))
 
-### Business
+## Talks & Podcasts
 
-- The Inventor: Out for Blood in Silicon Valley. 2019. ([link](https://www.imdb.com/title/tt8488126/))
-- The founder. 2016. ([link](https://www.imdb.com/title/tt4276820/))
-- Snowden. 2016. ([link](https://www.imdb.com/title/tt3774114/))
-- The Wolf of Wall Street. 2013. ([link](https://www.imdb.com/title/tt0993846/))
-
-
-## Media
+### Business and Entrepreneurship
 
 - Simon Sinek: How great leaders inspire action. 2010. ([link](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action))
-- Celeste Headlee: 10 ways to have a better conversation. 2016. ([link](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation))
 - Steve Jobs: How to live before you die. 2011. ([link](https://www.ted.com/talks/steve_jobs_how_to_live_before_you_die))
+
+### Finantial Market
+
+### Science, Data and Technology
+
 - Scott Galloway: How Amazon, Apple, Facebook and Google manipulate our emotions. 2017. ([link](https://www.ted.com/talks/scott_galloway_how_amazon_apple_facebook_and_google_manipulate_our_emotions))
