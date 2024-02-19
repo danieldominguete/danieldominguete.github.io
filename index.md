@@ -55,7 +55,7 @@
 1. Inteligência Artificial na Indústria: desafios e oportunidades. Instituto Federal Norte de Minas Gerais. 2020. ([link](https://drive.google.com/file/d/1x_ObcsGeHOxAreQNWDSU5MRegR559oeJ/view?usp=sharing))
 
 ---
-### Dev Projects 
+### Git Repos 
 
 #### [API Rest - NodeTS Boilerplate ](https://github.com/danieldominguete/API-NodeTS-Boilerplate)
 
@@ -69,7 +69,6 @@ Production ready API Rest template for Python. Using FastAPI, Mangum and Pynamod
 
 ### Memberships
 
-- Stellantis Data Analytics Community (moderator)
 - Machine Learning Experience Meetup ([link](https://www.meetup.com/pt-BR/meetup-machine-Learning-experience/))
 - Computational Intelligence Laboratory - UFMG ([link](http://litc.cpdee.ufmg.br/))
 
