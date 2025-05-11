@@ -83,8 +83,8 @@ Production ready API Rest template for Python. Using FastAPI, Mangum and Pynamod
 
 # Curated Recommendations
 
-Click [here](/pages/business_references.md) for my curated business references for technical professionals.
+Click [here](/pages/business_references.md) for curated business references for technical professionals.
 
-Click [here](/pages/technical_references.md) for my curated technical references for newbies and experts data professionals 
+Click [here](/pages/technical_references.md) for curated technical references for newbies and experts data professionals 
 
-Click [here](/pages/entertainment_suggestions.md) for my suggestions for techbiz-related entertainment content.  
+Click [here](/pages/entertainment_suggestions.md) for suggestions for techbiz-related entertainment content.  
